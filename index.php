@@ -1,3 +1,3 @@
 <?php
-echo "Bienvenue dans l'application de gestion d'école";
+echo "Bienvenue dans l'application de gestion d'école - Version Chef";
 ?>
